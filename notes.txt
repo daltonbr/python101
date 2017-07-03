@@ -8,3 +8,14 @@ PYQT (cross platform apps)
 
 * Simple, beautiful, powerful and cross-platform
 * Python is very versatile
+
+PEPS - Python Enhanced Proposals
+PEP8 
+
+function open
+some Modifiers: 
+"w" - writin; overwriting
+"r" - reading
+"a" - appending to new or existing file
+"rb" - read binary file
+"wb" - write binary file
