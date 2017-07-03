@@ -1,0 +1,10 @@
+Python: Getting Started
+By Bo Milanovich
+
+Django (web development)
+TensorFlow (AI)
+SCIPY (scientific computation)
+PYQT (cross platform apps)
+
+* Simple, beautiful, powerful and cross-platform
+* Python is very versatile
